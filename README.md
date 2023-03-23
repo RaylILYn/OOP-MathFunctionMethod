@@ -1,0 +1,1 @@
+# OOP Math Function Method
